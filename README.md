@@ -1,2 +1,2 @@
 # Hello-World
-After working in the Pharmaceutical Quality Assurance field for over 3 years, I career shifted to being a Military Spouse and Mom of 4.  After frequent moves and raising children, I have begun a career shift to IT, while maintaining my Quality viewpoint.  I am taking a variety of online classes. 
+After working in the Pharmaceutical Quality Assurance field for over 3 years, I career shifted to being a military spouse and mom of 4.  Now that the household is running smoothly, I have begun a career shift to IT, while maintaining my Quality viewpoint.  I am taking a variety of online classes, and was awarded a Grow with Google Udacity Scholarship in in Front-End Development January 2018.
